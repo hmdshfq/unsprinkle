@@ -37,4 +37,5 @@ const Wrapper = styled(MaxWidthWrapper)`
   padding-bottom: 128px;
 `;
 
+
 export default MainContent;
